@@ -8,7 +8,7 @@
 
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DanielMacedo7&layout=compact&show_icons=true&theme=dark" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMacedo7&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaís_Mattioli&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
 </div>
 
 <hr />

@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thaís Mattioli 👋
 
-🎓 **Tecnóloga em Análise e Desenvolvimento de Sistemas** (Conclusão: 2026.1)
+🎓 **Graduada em Análise e Desenvolvimento de Sistemas** (Conclusão: 2026.1)
 
 📚 Atualmente cursando **Pós-graduação em Inteligência Artificial para Desenvolvedores**.
 
